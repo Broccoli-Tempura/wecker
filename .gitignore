@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+wecker-state.json
+asked.json
+.env
+sounds/*.wav
