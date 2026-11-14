@@ -3,4 +3,3 @@ __pycache__/
 wecker-state.json
 asked.json
 .env
-sounds/*.wav
